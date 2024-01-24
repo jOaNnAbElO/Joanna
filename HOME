@@ -1,0 +1,55 @@
+<head>
+<title>Homepage</title>
+<link rel="icon" href="logo.jpg">
+</head>
+
+<body background="https://i.postimg.cc/cCSKK7x6/IMG-9483.jpg">
+
+<body>
+<font color="#4A412A">
+<h1>FF Company</h1>
+<hr>
+
+<font color="#7C776B">
+<center>
+<table border="3">
+<tr>
+<td>HOME</td>
+<td><a href="(link)">ABOUT US</td>
+<td><a href="(link)">GALLERY</td>
+<td><a href="(link)">CONTACT US</td>
+</tr>
+</table>
+
+<h3>"Welcome to FilipinianaFables Website, where timeless elegance meets cultural grace. Explore our collection of exquisite traditional clothing that weaves together heritage and style. Step into a world where every thread tells a story. Embrace the richness of tradition with every click."</h3>
+
+<h4>A relaxing music to listen while scrolling~</h4>
+<audio controls>
+<source src="link" type="audio/mpeg">
+</audio>
+
+<h4>Preview</h4>
+<video width="150" height="150" controls>
+<source src="link" type="video/mo4">
+</video>
+
+<br>
+
+<h2>3 of the Traditional Clothing</h2>
+
+<img src="https://i.postimg.cc/1R2DzCvJ/IMG-1565.jpg" 
+     width="250" 
+     height="250">
+<h4>1.Baro't Saya
+The Baro, also known as the Baro't Saya, is a traditional Filipino dress consisting of a blouse (Baro) and a skirt (Saya). This attire exudes elegance and grace, with intricate embroidery and vibrant patterns that vary by region. The Baro't Saya represents the blending of indigenous and Spanish influences during the Spanish colonial period.</h4>
+<img src="https://i.postimg.cc/02C7PpBN/IMG-9491.jpg" 
+     width="250">
+<h4>2.Kegal T'boli
+Kegal T'boli is the traditional clothing of the T'boli tribe, known for its vibrant colors and intricate beadwork. The ensemble includes a blouse called Kegal Bentilas, a skirt called Lewek tedeyung, beaded belts known as hilet lemimet, a necklace called bekelew, and a headdress called sewat. The Kegal T'boli represents the rich cultural heritage of the tribe.</h4>
+<img src="https://i.postimg.cc/0Q6CNbJB/IMG-9493.png.png" width="250" height="250">
+<h4>3.Tapis
+The Tapis is a wraparound skirt worn by Igorot women. It is made from handwoven fabric and secured with a belt. The Tapis showcases the craftsmanship and cultural identity of the Igorot community.</h4>
+
+</body>
+</head>
+</html>
